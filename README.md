@@ -1,5 +1,7 @@
 # eklipsa
 
+![eklipsa](og-image.png)
+
 **Every solar eclipse over Indonesia.**
 *Setiap gerhana matahari di Indonesia.*
 
